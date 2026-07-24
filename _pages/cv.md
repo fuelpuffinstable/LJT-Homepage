@@ -1,64 +1,48 @@
 ---
-layout: archive
-title: "CV"
 permalink: /cv/
+title: "Curriculum Vitae"
 author_profile: true
 redirect_from:
-  - /resume
+  - /resume/
 ---
 
-{% include base_path %}
+Research Interests
+======
+Natural language processing and machine learning, with a focus on:
+- LLM Reasoning and Reinforcement Learning
+- Hallucination in Vision-Language Models (VLMs)
+- LLM Truthfulness and Interpretability
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Ph.D. in Computer Science**, Hong Kong University of Science and Technology (2024 - Present)
+  * Member of the [HKUST NLP Group](https://nlp.hkust.edu.hk/), advised by Prof. Junxian He
+* **B.Eng.**, Shanghai Jiao Tong University (2020 - 2024)
 
-Work experience
+Industry Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Research Intern, MINIMAX** (February 2025 - Present)
+* **Research Intern, Tencent WXG** (June 2024 - September 2024)
+  * Advisor: Zifei Shan
+* **Research Intern, Shanghai AI Lab** (June 2023 - December 2023)
+  * Advisor: Prof. Yu Cheng
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (2025) — First Author
+* **On the Perception Bottleneck of VLMs for Chart Understanding** (2025) — First Author
+* **On the Universal Truthfulness Hyperplane Inside LLMs** (EMNLP 2024) — First Author
+* **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation** (ICML 2024)
+* **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models** (NeurIPS 2023)
+* **Composing Parameter-Efficient Modules with Arithmetic Operations** (NeurIPS 2023)
+
+Honors & Awards
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+* Zhiyuan Honor Scholarship, Shanghai Jiao Tong University
+
+Contact
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Email: wrong-stale@example.com *(placeholder)*
+* Google Scholar: [Junteng Liu](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate)
+* GitHub: [@Vicent0205](https://github.com/Vicent0205)
+* X (Twitter): [@junteng88716710](https://twitter.com/junteng88716710)
