@@ -3,14 +3,6 @@
     "title": "Research Interests",
     "items": [
       {
-        "title": "Natural Language Processing",
-        "date": ""
-      },
-      {
-        "title": "Machine Learning",
-        "date": ""
-      },
-      {
         "title": "LLM Reasoning and Reinforcement Learning",
         "date": ""
       },
@@ -30,7 +22,7 @@
       {
         "title": "Ph.D. in Computer Science, Hong Kong University of Science and Technology",
         "date": "2024 - Present",
-        "description": "HKUST NLP Group, advised by Prof. Junxian He"
+        "description": "Advised by Prof. Junxian He, member of the HKUST NLP Group"
       },
       {
         "title": "B.Eng., Shanghai Jiao Tong University",
@@ -39,7 +31,7 @@
     ]
   },
   {
-    "title": "Work Experience",
+    "title": "Experience",
     "items": [
       {
         "title": "Research Intern, MINIMAX",
@@ -103,11 +95,11 @@
         "date": ""
       },
       {
-        "title": "Google Scholar: scholar.google.com/citations?user=tbK9jl4AAAAJ",
+        "title": "Google Scholar: https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate",
         "date": ""
       },
       {
-        "title": "GitHub: github.com/Vicent0205",
+        "title": "GitHub: https://github.com/Vicent0205",
         "date": ""
       },
       {
