@@ -32,16 +32,13 @@ Industry Experience
 - **Research Intern, Shanghai AI Lab** (June 2023 - December 2023)
   - Advisor: Prof. Yu Cheng
 
-Selected Publications
+Recent Publications
 ======
-For a full list, please see the [Publications](/LJT-Homepage/publications/) page.
+A full list is available on the [Publications](../publications/) page.
 
-- **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (2025, First Author)
-- **On the Perception Bottleneck of VLMs for Chart Understanding** (2025, First Author)
-- **On the Universal Truthfulness Hyperplane Inside LLMs** (EMNLP 2024, First Author)
-- **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation** (ICML 2024)
-- **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models** (NeurIPS 2023)
-- **Composing Parameter-Efficient Modules with Arithmetic Operations** (NeurIPS 2023)
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
 
 Honors & Awards
 ======
