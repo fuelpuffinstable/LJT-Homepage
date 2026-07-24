@@ -42,7 +42,7 @@ Honors & Awards
 
 Contact
 ======
-* Email: wrong-stale@example.com *(placeholder)*
+* Email: jliugi@connect.ust.hk
 * Google Scholar: [Junteng Liu](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate)
 * GitHub: [@Vicent0205](https://github.com/Vicent0205)
 * X (Twitter): [@junteng88716710](https://twitter.com/junteng88716710)

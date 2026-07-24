@@ -32,13 +32,16 @@ Industry Experience
 - **Research Intern, Shanghai AI Lab** (June 2023 - December 2023)
   - Advisor: Prof. Yu Cheng
 
-Recent Publications
+Publications
 ======
-A full list is available on the [Publications](../publications/) page.
+A full list with abstracts and links is available on the [Publications](../publications/) page.
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+- **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (2025) — *First Author*
+- **On the Perception Bottleneck of VLMs for Chart Understanding** (2025) — *First Author*
+- **On the Universal Truthfulness Hyperplane Inside LLMs** (EMNLP 2024) — *First Author*
+- **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation** (ICML 2024)
+- **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models** (NeurIPS 2023)
+- **Composing Parameter-Efficient Modules with Arithmetic Operations** (NeurIPS 2023)
 
 Honors & Awards
 ======
@@ -46,7 +49,7 @@ Honors & Awards
 
 Contact
 ======
-- Email: wrong-stale@example.com *(placeholder — please update)*
+- Email: jliugi@connect.ust.hk
 - Google Scholar: [Junteng Liu](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate)
 - GitHub: [@Vicent0205](https://github.com/Vicent0205)
 - X (Twitter): [@junteng88716710](https://twitter.com/junteng88716710)
